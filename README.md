@@ -76,5 +76,6 @@ Understood how to implement data governance using masking and roles.
 Experienced cost-effective cloning and backup recovery through time travel.
 Practiced writing procedures and functions for reusable data logic.
 
+Note: All SQL scripts and implementation files are available in the “main” branch of this repository.
 
 
